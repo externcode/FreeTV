@@ -2,7 +2,7 @@ name: FreeTV
 
 on:
   schedule:
-   - cron: '0 */1 * * *'
+   - cron: '0 */2 * * *'
     
   pull_request:
     branches: [ master ]
