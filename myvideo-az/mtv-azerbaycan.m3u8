@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=2096&e=1723400847&playlistlength=5&shift=0&sid=coder_51&token=606fa93721881912746f28259211a41c&user=37076
+http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=2096&e=1723407751&playlistlength=5&shift=0&sid=coder_51&token=f9a6d945df3ad75441d171784d0cddff&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=796&e=1723400847&playlistlength=5&shift=0&sid=coder_51&token=606fa93721881912746f28259211a41c&user=37076
+http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=796&e=1723407751&playlistlength=5&shift=0&sid=coder_51&token=f9a6d945df3ad75441d171784d0cddff&user=37076
