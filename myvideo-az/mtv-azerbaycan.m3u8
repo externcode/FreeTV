@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6096000
-http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=6096&e=1739882200&playlistlength=5&shift=0&sid=coder_51&token=97041ad93f64fb4d7da3aa47c07ebbb5&user=37076
+http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=6096&e=1739888054&playlistlength=5&shift=0&sid=coder_51&token=f19567f5759ecba2a62fb016f5b69e1c&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=2096&e=1739882200&playlistlength=5&shift=0&sid=coder_51&token=97041ad93f64fb4d7da3aa47c07ebbb5&user=37076
+http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=2096&e=1739888054&playlistlength=5&shift=0&sid=coder_51&token=f19567f5759ecba2a62fb016f5b69e1c&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=796&e=1739882200&playlistlength=5&shift=0&sid=coder_51&token=97041ad93f64fb4d7da3aa47c07ebbb5&user=37076
+http://149.255.152.199/mtvazerbaycan.m3u8?bandwidth=796&e=1739888054&playlistlength=5&shift=0&sid=coder_51&token=f19567f5759ecba2a62fb016f5b69e1c&user=37076
